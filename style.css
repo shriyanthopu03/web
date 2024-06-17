@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Mukta:wght@200;300;400;500;600;700;800&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Shadows+Into+Light&display=swap');
+.nav-logo{
+    height: 85px;
+}
+.main-body{
+    padding-bottom: 50px;
+
+}
+.item-nav {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  
+}
+.item-nav:hover {
+    color: orange;
+}
+.anchor{
+    margin-left: auto;
+}
+.box-left{
+    
+     color: white;
+     font-family: "Encode Sans", sans-serif;
+     font-weight: 900;
+     text-align: right;
+     padding-left: 200px;
+}
+.box-right {
+     
+     color: white;
+     text-align: center;
+     font-family: "Encode Sans", sans-serif;
+     font-weight: 100;    
+}
+.para {
+    font-family: "Encode Sans", sans-serif;
+     font-weight: 300;   
+     text-align: right;
+     font-size: 20px;
+}
+.body-section {
+    
+    height: 85vh;
+    text-align: center;
+
+}
+.about-us-heading {
+    color: white;
+     font-family: "Encode Sans", sans-serif;
+     font-weight: 100;
+    text-align: center;
+}
+.para2 {
+    color: white;
+    font-family: "Encode Sans", sans-serif;
+     font-weight: 300;   
+     text-align: center;
+     font-size: 20px;
+}
+.contact {
+    text-align: center;
+    color: white;
+}
+.contact-info {
+    color: white;
+    font-family: "Encode Sans", sans-serif;
+     font-weight: 300;   
+     text-align: center;
+     font-size: 20px;
+}
+.social-icon-img{
+    height: 20px;
+    margin: 10px;
+}
+body {
+    background-size: cover;
+    height: auto;
+    background-image: url('https://www.eso.org/public/archives/images/thumb300y/eso1907a.jpg')
+    
+}
